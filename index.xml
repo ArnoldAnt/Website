@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>retro-id.archive</title>
+    <link>https://arnoldant.github.io/website/</link>
+    <description>Recent content on retro-id.archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2023 23:07:31 -0400</lastBuildDate><atom:link href="https://arnoldant.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early Pandemic COVID-19 Case Analysis</title>
+      <link>https://arnoldant.github.io/website/posts/pp1/</link>
+      <pubDate>Mon, 26 Jun 2023 23:07:31 -0400</pubDate>
+      
+      <guid>https://arnoldant.github.io/website/posts/pp1/</guid>
+      <description>Objective The objective of this project is to analyze the early pandemic data of COVID-19 cases for five counties in the state of Florida using Microsoft Excel. The analysis will consist of the modeling of positive cases over a period (days) and the estimation of the growth rates for each county. Also, each county will be compared with one another to find similarities and/or differences. The exploration of possible causes of said comparisons will be highlighted in the analysis process as well.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://arnoldant.github.io/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arnoldant.github.io/website/about/</guid>
+      <description>Hello, I&amp;rsquo;m Anthony Arnold, a passionate and driven individual based in Miami, FL. With a Bachelor of Science in Mathematics, specializing in Physics and Engineering, I have developed a strong foundation in analytical thinking and problem-solving. Throughout my academic journey at the University of Central Florida, I maintained an exceptional GPA of 3.96/4 and received several accolades, including being recognized as a Top 10 Knight and receiving the UCF Scholars Award.</description>
+    </item>
+    
+  </channel>
+</rss>

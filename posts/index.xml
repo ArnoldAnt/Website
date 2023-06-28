@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on retro-id.archive</title>
+    <link>https://arnoldant.github.io/website/posts/</link>
+    <description>Recent content in Posts on retro-id.archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2023 23:07:31 -0400</lastBuildDate><atom:link href="https://arnoldant.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early Pandemic COVID-19 Case Analysis</title>
+      <link>https://arnoldant.github.io/website/posts/pp1/</link>
+      <pubDate>Mon, 26 Jun 2023 23:07:31 -0400</pubDate>
+      
+      <guid>https://arnoldant.github.io/website/posts/pp1/</guid>
+      <description>Objective The objective of this project is to analyze the early pandemic data of COVID-19 cases for five counties in the state of Florida using Microsoft Excel. The analysis will consist of the modeling of positive cases over a period (days) and the estimation of the growth rates for each county. Also, each county will be compared with one another to find similarities and/or differences. The exploration of possible causes of said comparisons will be highlighted in the analysis process as well.</description>
+    </item>
+    
+  </channel>
+</rss>
