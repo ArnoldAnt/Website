@@ -15,6 +15,16 @@
       <guid>https://arnoldant.github.io/website/posts/pp1/</guid>
       <description>Objective The objective of this project is to analyze the early pandemic data of COVID-19 cases for five counties in the state of Florida using Microsoft Excel. The analysis will consist of the modeling of positive cases over a period (days) and the estimation of the growth rates for each county. Also, each county will be compared with one another to find similarities and/or differences. The exploration of possible causes of said comparisons will be highlighted in the analysis process as well.</description>
     </item>
+
+    <item>
+      <title>COVID-19 Case Analysis PT 2: Income Class</title>
+      <link>https://arnoldant.github.io/website/posts/pp2/</link>
+      <pubDate>Tue, 27 Jun 2023 23:07:31 -0400</pubDate>
+      
+      <guid>https://arnoldant.github.io/website/posts/pp2/</guid>
+      <description>This is an extension of the previous COVID-19 Case Analysis. Diving deeper into the data presented, I used SQL Server Management Studio (SSMS) and
+ Tableau to organize and visualize key data that shows the differences of COVID-19 vaccination and death rates among income classes. </description>
+    </item>
     
   </channel>
 </rss>
