@@ -14,9 +14,8 @@
                 position: fixed;
                 top: 0;
                 left: 0;
-                width: 100%;
-                height: 100%;
-                background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+                width: 200%;
+                height: 200%;
                 display: none;
                 justify-content: center;
                 align-items: center;
@@ -55,6 +54,17 @@
         <div class="fullscreen-image" id="fullscreenImage">
             <img src="bubbles.gif" alt="Bubbles">
         </div>
+
+        <script>
+            function openFullscreen() {
+                var fullscreenImage = document.getElementById('fullscreenImage');
+                fullscreenImage.classList.add('active');
+                setTimeout(function() {
+                    fullscreenImage.classList.remove('active');
+                }, 1000); // Show for 5 seconds
+            }
+        </script>
+
         <div class="page">
 
             <header class="page__header"><nav class="page__nav main-nav">
@@ -72,7 +82,7 @@
 </header>
 
             <section class="page__body">
-    <p><center><img src="https://arnoldant.github.io/website/fish.gif"> </center>  <br>
+    <p><center><img src="https://arnoldant.github.io/website/fish.gif"alt="Fish" onclick="openFullscreen()" style="cursor: pointer;"> </center>  <br>
 <center><strong><font size="11">Let&rsquo;s Dive into the World of Data.</font></strong></center></p>
 		    
 
@@ -129,16 +139,8 @@
 </footer>
 
         </div>
-        <script>
-            function openFullscreen() {
-                var fullscreenImage = document.getElementById('fullscreenImage');
-                fullscreenImage.classList.add('active');
-                setTimeout(function() {
-                    fullscreenImage.classList.remove('active');
-                }, 5000); // Show for 5 seconds
-            }
-        </script>
-        <img src="./fish.gif" alt="Fish" onclick="openFullscreen()" style="cursor: pointer;">
+
+        
     </body>
 
 </html>
